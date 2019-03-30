@@ -1,1 +1,1 @@
-# SLIIT_robofest
+# SLIIT ROBO-FEST 2016
